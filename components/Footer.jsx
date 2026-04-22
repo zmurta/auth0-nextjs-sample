@@ -6,6 +6,7 @@ const Footer = () => (
     <p data-testid="footer-text">
       Sample project provided by <a href="https://auth0.com">Auth0</a>
     </p>
+    <p>Made with Love &copy;</p>
   </footer>
 );
 
